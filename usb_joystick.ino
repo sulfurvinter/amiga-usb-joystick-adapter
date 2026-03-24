@@ -28,8 +28,8 @@
 // -------------------------------------------------------
 
 // --- Pin definitions ---
-#define JOY1_UP    5
-#define JOY1_DOWN  6
+#define JOY1_UP    6
+#define JOY1_DOWN  5
 #define JOY1_LEFT  4
 #define JOY1_RIGHT 3
 #define JOY1_FIRE  2
