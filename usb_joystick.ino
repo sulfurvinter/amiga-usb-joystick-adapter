@@ -1,3 +1,4 @@
+// 2026-03-24 — Updated: swapped JOY1_UP/DOWN to fix Y axis direction, by Claude
 // 2026-03-23 — Amiga dual joystick USB adapter, by Claude
 // Based on https://github.com/ytmytm/classic-joystick by Maciej Witkowiak
 // Adapted pin mapping to project pinout; keyboard emulation removed — pure HID joystick only
